@@ -48,3 +48,5 @@ La salida demuestra el flujo completo: cambio de estrategia de estimación, noti
 ## Punto de entrada
 
 `main.py` contiene únicamente la composición del ejemplo y la función `demo()`. Las implementaciones reutilizables viven dentro del paquete `arquitectura`, por lo que pueden importarse en futuras pruebas o aplicaciones sin copiar el programa completo.
+
+Autores: Carlos Saul Villabona Pinilla y Edwar Alejandro Jimenez Rios
